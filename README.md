@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Denzel Dulin
-- 👀 I’m interested software engineering and web development 
-- 🌱 I’m currently learning Javascript 
+- 👀 I’m a software engineer/ front-end
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on any projects that can help me with my development to become a software engineer
 - 📫 How to reach me: You can reach me by email at ddulinnxg@gmail.com
 
